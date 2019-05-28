@@ -3,7 +3,14 @@
 - oryginał (do wglądu) i kopię dokumentu potwierdzającego udział w pracach badawczych lub pracach obozu naukowego, zdobyte doświadczenie zawodowe
 (umowa o pracę, umowa zlecenie, umowa o dzieło, umowa o staż) lub prowadzenie działalności gospodarczej; zalecane jest, aby prace objęte umowami zakończyły się do dnia 31.05.2019, a działalność była prowadzona nie krócej niż 4
 miesiące,
+
+
+
 - samodzielnie przygotowany raport z wykonanych prac dla oceny ich zgodności
 z kierunkiem studiów (minimum jedna pełna strona A4 tekstu w formie opisowej – nie w formie punktów, informacje ogólne, takie jak imię i nazwisko, nagłówki itp. nie są wliczane w tekst, czcionka Times New Roman
 12pt, pojedyncze odstępy między wierszami, odstępy między akapitami
 0pt, marginesy 2.5 cm, wyrównanie do lewego i prawego marginesu.
+
+
+
+Praca w Ośrodku badawczo rozwojowym urządzeń mechanicznych(OBRUM) na stanowisku młodszego programisty polega na przygotowywaniu, wdrazaniu, i testowaniu skomplikowanych systemow informatycznych w postaci symulatorow i trenazerow dla ośrodków szkoleniowych Wojska Polskiego. Do moich obwiozków należały przygotowanie działających modeli, scenariuszy, pojazdów, postacii w silniku Virual Battlespace 3 (vbs3) , jak również implementacje różnych problemów w Unity oraz UnrealEngine 4. W których do opisania wczesniej wymienionych czynności używam języka: dla VBS3 - sqf (język skryptowy stworzony na rzecz silnika), C# w silniku Unity oraz c++/blueprint dla UnrealEngine 4. Po przygotowaniu do moich obowiązku należy wstepne przetestowanie mojej pracy, a nastepnie przekazanie do głebszych testów testerom oprogramowania. Do organizacji pracy korzystamy z Jiry i conflueance, pozwala to na płyna prace w za Prace przechowujemy na lokalnym repozytorium korzystajacym z technologii GIT oraz SVN. 

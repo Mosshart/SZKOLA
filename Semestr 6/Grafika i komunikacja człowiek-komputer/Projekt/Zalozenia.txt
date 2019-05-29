@@ -1,0 +1,15 @@
+
+Gameplay:
+Użytkownik za zadanie będzie miał przejechać tor i zdobycie jak największej ilości punktów które będą liczone jest zależna od czasu i zebranych pickupów (negatywne na plus, pozytywne na minus).
+Po przejechaniu trasy, użytkownik będzie mógł zrestartować grę. Sterowanie pojazdem będzie się odbywać z użyciem klawiatury. 
+Rodzaje pickupów:
+- Przyspieszenie 
+- Spowolnienie
+- Wyciemnienie ekranu
+- Odwrócone sterowanie
+- Zatrzymanie timera
+- Nagła śmierć
+- Powiększenie pojazdu
+- Pomniejszenie pojazdu
+Menu gry:
+Menu będzie uproszczone do minimum, posiadające przycisk "Start" i "Exit". 

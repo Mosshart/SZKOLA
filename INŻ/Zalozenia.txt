@@ -1,0 +1,32 @@
+
+Mario like:
+Gracz będzie miał kilka plansz do przejscia, z góry założonymi przeszkodami, przeciwnikami i bonusami. Sterowanie będzie sie odbywać poprzez klawiature lub gamepada. Postać gracza bedzie posiadać opcje strzelania do przeciwników (tak jak w mario strzał przed siebie). Tło gry bedzie zbudowane na zasadzie parallax scrolling. 
+Bonusy postaci możliwe do zebrania:
+- dodatkowe życie
+- ulepszenie strzału
+- przyspieszenie
+- spowolnienie 
+- tarcza ochronna
+- ... ??
+
+Na koncu gry gracz zmierzy sie z bossem.
+Gra będzie posiadać proste UI posiadające opcje wczytania zapisanej gry, start nowej gry, wyjscie z aplikacji. Przy pauzie gry pojawi się opcja Resume i Exit.
+
+
+Spaceshooter:
+Gracz bedzie posiadał kilka plansz do przejscia. Tło gry parallax scrolling. Przeciwnicy pojawiajacy sie losowo. 
+Po okroslonej ilosci przebytej drogi pojawi sie boss, po zabiciu lecimy dalej ze zwiekszonym poziomem trudnosci:
+- szybsze przewijanie planszy
+- wieksza ilosc zycia przeciwników
+Przeciwnicy:
+- obiokty statyczne Spadajace w dół planszy
+- przeciwnicy strzelajacy
+
+bonusy:
+- ulepszanie broni (np 5 poziomów mocy jeden pickup daje +1, startujemy na poziomie 1)
+- dodatkowe zycie
+- tarcza ochronna 
+- ... ?
+
+Gra bedzie obslugiwana na platformie android. Sterowanie bedzie sie odbywac przez poruszanie palcem po ekranie 
+
